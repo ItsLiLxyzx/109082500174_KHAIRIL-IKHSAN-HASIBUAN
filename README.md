@@ -12,6 +12,7 @@ Repository ini digunakan untuk pengumpulan tugas praktikum Struktur Data.
 ### 📂 Struktur Folder
 
 ```text
-Week 2/
-└── Laprak-StrukturData - 109082500174_Khairil Ikhsan Hasibuan.md
+109082500174_KHAIRIL-IKHSAN-HASIBUAN/
+└── Week 2/
+      └── Laprak-StrukturData - 109082500174_Khairil Ikhsan Hasibuan.md
 README.md
