@@ -14,3 +14,4 @@ Repository ini digunakan untuk pengumpulan tugas praktikum Struktur Data.
 ```text
 Week 2/
 └── Laprak-StrukturData - 109082500174_Khairil Ikhsan Hasibuan.md
+README.md
