@@ -116,7 +116,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Output 1](img/Output 1.png)
+![Output 1](img/Output1.png)
 
 Program ini menerima dua bilangan dari user, kemudian melakukan operasi hitung dan menampilkan hasilnya, pada bagian pembagian juga terdapat pengecekan agar bilangan tidak dibagi dengan nol.
 
@@ -182,7 +182,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 2
-![Output 2](img/Output 2.png)
+![Output 2](img/Output2.png)
 
 Program ini digunakan untuk mengubah angka dari 0 s.d 100 menjadi bentuk tulisan sesuai dengan angka yang dimasukkan.
 
@@ -218,7 +218,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 3
-![Output 1](img/Output 3.png)
+![Output 1](img/Output3.png)
 
 
 Program ini digunakan untuk membuat pola angka yang semakin mengecil pada setiap baris dan memiliki tanda "*" di bagian tengah.
