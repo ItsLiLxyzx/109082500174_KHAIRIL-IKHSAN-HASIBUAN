@@ -1,6 +1,6 @@
 # 📚 Pengumpulan Tugas Praktikum Struktur Data
 
-Repository ini digunakan untuk pengumpulan tugas praktikum Struktur Data.
+Repository ini digunakan untuk menyimpan dan mengumpulkan tugas praktikum Struktur Data.
 
 ### 👨‍💻 Identitas
 
@@ -13,6 +13,6 @@ Repository ini digunakan untuk pengumpulan tugas praktikum Struktur Data.
 
 ```text
 109082500174_KHAIRIL-IKHSAN-HASIBUAN/
+├── README.md
 └── Week 2/
-      └── Laprak-StrukturData - 109082500174_Khairil Ikhsan Hasibuan.md
-README.md
+    └── Laprak-StrukturData - 109082500174_Khairil Ikhsan Hasibuan.md
