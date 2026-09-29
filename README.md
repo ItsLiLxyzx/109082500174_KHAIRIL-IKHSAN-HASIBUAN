@@ -15,4 +15,8 @@ Repository ini digunakan untuk menyimpan dan mengumpulkan tugas praktikum Strukt
 109082500174_KHAIRIL-IKHSAN-HASIBUAN/
 ├── README.md
 └── week 2/
-    └── Laprak-StrukturData - 109082500174_Khairil Ikhsan Hasibuan.md
+    ├── Laprak-StrukturData - 109082500174_Khairil Ikhsan Hasibuan.md
+    └── img/
+        ├── Output1.png
+        ├── Output2.png
+        └── Output3.png
