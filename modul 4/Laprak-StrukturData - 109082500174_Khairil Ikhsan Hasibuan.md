@@ -471,7 +471,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Output 1](laprak4-1.jpg)
+![Output 1](img/Output1.png)
 
 Pada soal pertama, program Singly Linked List dibuat menggunakan tiga file, yaitu `Singlylist.h`, `Singlylist.cpp`, dan `main.cpp`. File header berisi struktur data dan deklarasi fungsi, sedangkan file `.cpp` berisi implementasi fungsi yang digunakan. File `main.cpp` digunakan untuk menjalankan program. 
 
@@ -693,7 +693,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 2
-![Output 2](laprak4-2.jpg)
+![Output 2](img/Output2.png)
 
 Pada soal kedua, program dikembangkan dengan menambahkan beberapa fungsi untuk menghapus node dan menghitung jumlah data dalam Singly Linked List. Fungsi tambahan yang digunakan adalah `deleteFirst()` untuk menghapus node pertama, `deleteLast()` untuk menghapus node terakhir, `deleteAfter()` untuk menghapus node setelah posisi tertentu, `nbList()` untuk menghitung jumlah node, dan `deleteList()` untuk menghapus seluruh node dalam list.
 
