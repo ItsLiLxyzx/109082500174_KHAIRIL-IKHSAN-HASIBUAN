@@ -1,6 +1,7 @@
 # <h1 align="center"> Modul 5 SINGLY LINKED LIST (BAGIAN KEDUA) </h1>
 <p align="center">Khairil Ikhsan Hasibuan - 109082500174</p>
-## Dasar Teori
+
+### Dasar Teori
 
 ### A. Singly Linked List
 
