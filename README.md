@@ -19,7 +19,7 @@ Repository ini digunakan untuk menyimpan dan mengumpulkan tugas praktikum Strukt
 │   │   ├── Output2.png
 │   │   └── Output3.png
 │   └── Laprak-StrukturData - 109082500174_Khairil Ikhsan Hasibuan.md
-├── modul 2/
+├── modul 4/
 │   ├── img/
 │   │   ├── Output1.png
 │   │   └── Output2.png
