@@ -33,17 +33,21 @@ Doubly Linked List memiliki beberapa operasi dasar yang digunakan untuk mengelol
 
 Insert merupakan operasi untuk memasukkan elemen baru ke dalam list. Penambahan data dapat dilakukan dengan beberapa cara[1]:
 
-* **Insert First**: Menambahkan elemen baru pada bagian awal list. Pointer `next` dari elemen baru diarahkan ke elemen pertama sebelumnya, sedangkan pointer `prev` diatur menjadi `Nil`.
-* **Insert Last**: Menambahkan elemen baru pada bagian akhir list. Pointer `prev` dari elemen baru diarahkan ke elemen terakhir sebelumnya, kemudian pointer `next` dari elemen terakhir tersebut dihubungkan ke elemen baru.
-* **Insert After**: Memasukkan elemen baru tepat setelah elemen tertentu yang ditunjuk oleh `Prec`.
+| Jenis Insert | Penjelasan |
+|---|---|
+| **Insert First** | Menambahkan elemen baru pada bagian awal list. Pointer `next` dari elemen baru diarahkan ke elemen pertama sebelumnya, sedangkan pointer `prev` diatur menjadi `Nil`. |
+| **Insert Last** | Menambahkan elemen baru pada bagian akhir list. Pointer `prev` dari elemen baru diarahkan ke elemen terakhir sebelumnya, kemudian pointer `next` dari elemen terakhir dihubungkan ke elemen baru. |
+| **Insert After** | Memasukkan elemen baru tepat setelah elemen tertentu yang ditunjuk oleh `Prec`. |
 
 #### **2. Delete (Penghapusan Data)**
 
 Delete merupakan operasi yang digunakan untuk menghilangkan elemen dari dalam list. Terdapat beberapa jenis penghapusan yang dapat dilakukan[1]:
 
-* **Delete First**: Menghapus elemen pertama pada list. Pointer `L.first` dipindahkan ke elemen berikutnya, kemudian pointer `prev` pada elemen tersebut diatur menjadi `Nil`.
-* **Delete Last**: Menghapus elemen terakhir pada list. Pointer `L.last` dipindahkan ke elemen sebelumnya, lalu pointer `next` dari elemen tersebut diatur menjadi `Nil`.
-* **Delete After**: Menghapus elemen yang terletak setelah elemen tertentu (`Prec`). Pointer `next` dari `Prec` dihubungkan langsung ke elemen setelah elemen yang dihapus.
+| Jenis Delete | Penjelasan |
+|---|---|
+| **Delete First** | Menghapus elemen pertama pada list. Pointer `L.First` dipindahkan ke elemen berikutnya, kemudian pointer `prev` pada elemen tersebut diatur menjadi `Nil`. |
+| **Delete Last** | Menghapus elemen terakhir pada list. Pointer `L.Last` dipindahkan ke elemen sebelumnya, lalu pointer `next` dari elemen tersebut diatur menjadi `Nil`. |
+| **Delete After** | Menghapus elemen yang terletak setelah elemen tertentu (`Prec`). Pointer `next` dari `Prec` dihubungkan langsung ke elemen setelah elemen yang dihapus. |
 
 #### **3. Searching dan View**
 
